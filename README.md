@@ -2,19 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1220,50:123a5e,100:7c5cff&text=TU%20NOMBRE%20APELLIDOS&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=F%C3%ADsico%20en%20formaci%C3%B3n%20%C2%B7%20Nanomateriales%20%C2%B7%20Electrocat%C3%A1lisis&descAlignY=60&descSize=16" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1220,50:123a5e,100:7c5cff&text=David%20Felipe%20Chirivi%20Carreño&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=F%C3%ADsico%20en%20formaci%C3%B3n%20%C2%B7%20Nanomateriales%20%C2%B7%20Electrocat%C3%A1lisis&descAlignY=60&descSize=16" alt="banner" width="100%"/>
 
 **`NANOMATERIALES · LÁSER PULSADO · HIDRÓGENO VERDE`**
 
 Estudiante de Física · Universidad Industrial de Santander · Bucaramanga, Colombia
 
-<a href="mailto:felipechirivi@gmail.com"><img src="https://img.shields.io/badge/TU_CORREO-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="correo"/></a>
-<a href="https://github.com/Chirivix"><img src="https://img.shields.io/badge/TU__USUARIO-7c5cff?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="mailto:felipechirivi@gmail.com"><img src="https://img.shields.io/badge/felipechirivi@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="correo"/></a>
+<a href="https://github.com/Chirivix"><img src="https://img.shields.io/badge/Chirivix-7c5cff?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <img src="https://img.shields.io/badge/BUCARAMANGA,_COLOMBIA-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="ubicación"/>
 
-### Fabrico nanopartículas con láser, las mido y las pongo a producir hidrógeno
+### Fabrico nanopartículas con láser, las caracterizo y las pongo a reaccionar con el hidrógeno
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS%20AL%20PERFIL&color=0ea5e9&style=flat-square" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=Chirivix&label=VISITAS%20AL%20PERFIL&color=0ea5e9&style=flat-square" alt="visitas"/>
 <img src="https://img.shields.io/badge/TRABAJO_DE_GRADO-EN_CURSO-22c55e?style=flat-square" alt="estado"/>
 
 </div>
