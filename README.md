@@ -14,7 +14,6 @@ Estudiante de Física · Universidad Industrial de Santander · Bucaramanga, Col
 
 ### Fabrico nanopartículas con láser, las caracterizo y las pongo a reaccionar con el hidrógeno
 
-<img src="https://komarev.com/ghpvc/?username=Chirivix&label=VISITAS%20AL%20PERFIL&color=0ea5e9&style=flat-square" alt="visitas"/>
 <img src="https://img.shields.io/badge/TRABAJO_DE_GRADO-EN_CURSO-22c55e?style=flat-square" alt="estado"/>
 
 </div>
@@ -29,16 +28,6 @@ Soy **David Felipe Chirivi Carreño**, estudiante de Física de la **Universidad
 
 Me interesa el ciclo completo: diseñar el experimento, fabricar las muestras, caracterizarlas, medir y analizar los datos con criterio. También llevo el registro del laboratorio de forma ordenada (bitácora de muestras, protocolos escritos y datos trazables), porque un resultado que no se puede reproducir no está terminado.
 
-```python
-yo = {
-    "rol":         "Física en formación · Materiales · Electroquímica",
-    "enfoque":     ["síntesis por PLD", "caracterización", "reproducibilidad"],
-    "trabajando":  ["Ni-W / Ni3S2 sobre carbono poroso", "HER alcalina", "bitácora de muestras"],
-    "aprendiendo": "lo que el siguiente experimento exija",
-    "filosofia":   "si no se puede medir ni reproducir, no está terminado",
-}
-```
-
 ---
 
 ## Trabajo de grado
@@ -49,28 +38,9 @@ Escuela de Física · UIS · Director: Dr. Rogelio Ospina Ospina
 
 **El problema.** En medio alcalino, los catalizadores de níquel quedan limitados por el paso de Volmer (disociación del agua). La propuesta es construir una **heterointerfase bifásica** que combine dos efectos: la aleación **Ni-W**, que acelera el flujo electrónico, y el **Ni₃S₂**, que disocia el agua de forma eficiente. Con eso se busca mover el paso limitante hacia Heyrovsky o Tafel.
 
-**Ruta experimental**
-
-```text
-PLD (Ni-W sobre carbono poroso)
-        │
-        ▼
-Sulfuración térmica con H₂S  ──►  Ni₃S₂
-        │
-        ▼
-Oxidación atmosférica controlada  ──►  Ni(OH)₂ / NiO
-        │
-        ▼
-Lixiviación selectiva de WOx por CV (activación electroquímica)
-        │
-        ▼
-LSV · EIS · Cronoamperometría   +   SEM · XRD · XPS
-```
-
 | Etapa | Técnicas |
 |---|---|
 | Síntesis | Deposición por Láser Pulsado (PLD) en alto vacío |
-| Modificación superficial | Sulfuración térmica (H₂S), oxidación natural controlada |
 | Evaluación electroquímica | LSV, EIS, cronoamperometría, voltamperometría cíclica |
 | Caracterización | SEM, XRD, XPS |
 
@@ -80,10 +50,11 @@ LSV · EIS · Cronoamperometría   +   SEM · XRD · XPS
 
 ## Estado actual
 
-- [x] Propuesta de proyecto de grado redactada (marco teórico, estado del arte, objetivos y metodología)
+- [x] Propuesta de proyecto de grado redactada como borrador (marco teórico, estado del arte, objetivos y metodología)
 - [x] Protocolos de laboratorio documentados: **uso del láser PLD**, **reactor de vacío** y **limpieza de metales** para blancos
 - [x] Bitácora de muestras en Notion (nombres tipo `YYMMDD-XX`, composición, parámetros del láser, soporte y estado)
-- [x] Primeras muestras fabricadas por PLD sobre **obleas de silicio** (serie `290826`, Ni-Ti-W)
+- [x] Primeras muestras fabricadas por PLD sobre **obleas de silicio** (muestras de prueba, Ni-Ti-W)
+- [ ] Fabricación de las primeras muestras reales // Trabajo de grado 1 aprobado
 - [ ] Caracterización (SEM, XRD, XPS) de las muestras fabricadas
 - [ ] Pruebas electroquímicas en medio alcalino
 - [ ] Depósito sobre hojas de carbono poroso y tratamientos de sulfuración
